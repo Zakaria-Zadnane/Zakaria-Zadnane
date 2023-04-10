@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zakaria-Zadnane
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in softwere Engeneer
+- 🌱 I’m currently learning Front-end and looking for back-end 
+<!-- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me Gmail :  zakariia.zadnane@gmail.com 
 
 <!---
