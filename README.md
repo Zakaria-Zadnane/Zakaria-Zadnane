@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zakaria-Zadnane
-- 👀 I’m interested in softwere Engeneer
-- 🌱 I’m currently learning Front-end and looking for back-end 
+- 👀 I’m interested in web developer
+- Programming language that i work with  : Html , CSS , PHP, JavaScript .
+- FramWork : Laravel , MySql , Bootstrap .  
 <!-- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me Gmail :  zakariia.zadnane@gmail.com 
 
